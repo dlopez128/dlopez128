@@ -5,12 +5,12 @@ I have a strong enthusiasm for cybersecurity and enjoy tackling complex challeng
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation]**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)]**
+- Vulnerability Management Program Implementation
+- Programmatic Vulnerability Remediations (PowerShell and BASH)
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)]**
+- Threat Hunting Scenario (Tor Browser Usage)
 
 <hr/>
 
