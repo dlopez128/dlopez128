@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/denise-lopez00/">Denise Lopez</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+I have a strong enthusiasm for cybersecurity and enjoy tackling complex challenges through practical and hands-on projects. From vulnerability management to threat detection, these projects allow me to identify, assess, and mitigate security weaknesses and potential threats to protect information systems and data from cyberattacks. I invite you to take a look at my work and see my dedicated effort to improving security operations and processes. 
 
 
 ## ⚠️ Vulnerability Management Projects
